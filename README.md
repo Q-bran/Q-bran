@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Q-bran
-- 🌱 I’m currently learning Linux and Java
+- 👋 Hi, I’m Bianca Popescu :)
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on any project 
 - 😄 Pronouns: She/Her
 

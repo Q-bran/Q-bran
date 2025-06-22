@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bianca Popescu :)
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on any project 
+- 🌱 I’m currently learning JavaScript and Python
 - 😄 Pronouns: She/Her
 
 <!---
